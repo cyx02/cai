@@ -19,3 +19,4 @@ class My extends One{
 }
 const obj = new My();
 console.log(obj.render())
+//sfa sdf 

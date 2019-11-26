@@ -5,3 +5,4 @@ function fn(a) {
 }
 console.log(fn(1)(2));
 // 原型 原型
+// 大幅范德萨大个
